@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(185, 184, 184);
+}
+#texto{
+
+    color:rgb(65, 124, 126);
+}
+#form{
+    width:600px;
+    height: 300px;
+    color: gray;
+    padding-top: 25px;
+    border-top: 2px black solid;
+}
+#entrada,#password{
+    width:500px;
+}
+#message{
+    width:500px;
+    height:100px;
+}
+#login{
+    margin-left: 200px;
+    width:100px;
+    background-color: rgb(36, 229, 36);
+}
+#persona{
+    color: blue;
+}

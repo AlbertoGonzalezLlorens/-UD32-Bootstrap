@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    padding-top: 50px;
+}
+#texto{
+    text-align: center;
+}
+#form{
+    background-color: white;
+    width:600px;
+    height: 300px;
+    margin-left: 350px;
+    color: gray;
+    padding-top: 25px;
+}
+#entrada,#password{
+    width:500px;
+}
+#login{
+    width:500px;
+    background-color: rgb(36, 229, 36);
+}

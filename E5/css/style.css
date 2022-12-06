@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(185, 184, 184);
+}
+.container{
+    margin-top: 5%;
+}
+#primero{
+    background-color: rgb(222, 222, 222);
+}
+#texto{
+
+    color:black;
+}
+#form{
+    background-color:rgb(88, 167, 167);
+    
+}
